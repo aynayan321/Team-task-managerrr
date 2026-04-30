@@ -15,13 +15,6 @@ Backend: https://your-backend-url
 
 https://your-demo-video-link
 
----
-
-## 📸 Screenshots
-
-(Add your screenshots here)
-
----
 
 ## 📸 Features
 
