@@ -12,7 +12,7 @@ const createProject = async (req, res) => {
     await project.populate('owner', 'name email');
     res.status(201).json(project);
   } catch (error) {
-    res.status(500).json({ message: error.message });
+    res.status(600).json({ message: error.message });
   }
 };
 
